@@ -1,5 +1,4 @@
 call plug#begin('~/.nvim/plugged')
-  Plug 'SirVer/ultisnips'
   Plug 'airblade/vim-gitgutter'
   Plug 'arkwright/vim-whiplash'
   Plug 'chriskempson/base16-vim'
