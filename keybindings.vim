@@ -64,5 +64,7 @@ nnoremap <Leader>tv :vsp<CR><c-w>l:terminal<CR><c-\><c-n>
 nnoremap <Leader>ts :sp<CR><c-w>k:terminal<CR><c-\><c-n>
 tnoremap <Esc> <c-\><c-n>
 
+" Ruby
 source ~/.config/nvim/keybindings-ruby.vim
+" Javascript
 source ~/.config/nvim/keybindings-javascript.vim
